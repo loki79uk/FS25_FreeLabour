@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+	<author>loki_79</author>
+    <version>1.0.0.0</version>
+	<title>
+        <en>Free Labour</en>
+        <de>Kostenloser Helfer</de>
+        <fr>Ouvrier Gratuit</fr>
+    </title>
+    <description>
+<en><![CDATA[With this mod your workers will no longer cost you money.
+
+Features:
+- There is no payment for workers to perform field jobs or driving tasks
+- You will still be charged for any fuel, seeds or fertiliser that they use
+
+]]>
+</en>
+<de><![CDATA[Mit dieser Mod kosten Ihre Helfer Sie kein Geld mehr.
+
+Merkmale:
+- Es gibt keine Bezahlung für Helfer, die Feldarbeiten oder Fahraufgaben ausführen
+- Die Kosten für Treibstoff, Saatgut und Düngemittel, die sie verwenden, werden Ihnen trotzdem in Rechnung gestellt
+
+]]>
+</de>
+<fr><![CDATA[Avec ce mod vos ouvriers ne vous coûtent plus d'argent.
+
+Caractéristiques:
+- Les travailleurs ne sont pas payés pour effectuer des travaux dans les champs ou des tâches de conduite
+- Vous serez toujours facturé pour le carburant, les semences ou les engrais qu'ils utilisent
+
+]]>
+</fr>
+    </description>
+	
+	<multiplayer supported="true" />
+	<iconFilename>icon_mod.dds</iconFilename>
+	<extraSourceFiles>
+		<sourceFile filename="FreeLabour.lua" />
+	</extraSourceFiles>
+</modDesc>
